@@ -1,4 +1,4 @@
-#  Planet Simulation
+# 🪐 Planet Simulation
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-Library-green?style=for-the-badge)
